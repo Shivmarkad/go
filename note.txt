@@ -1,0 +1,14 @@
+string 
+bool
+integer
+floating 
+complex
+
+array
+slices
+maps
+structs
+pointers
+
+functions
+channels
